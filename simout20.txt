@@ -1,0 +1,370 @@
+pop.txt
+reading
+---------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------2
+in main about to cal sim
+clocktick: 0
+no students but windows are isAvailable idle time ++
+Student arrival time:5
+----clocktick----: 1 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------
+clocktick: 1
+no students but windows are isAvailable idle time ++
+Student arrival time:5
+----clocktick----: 2 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------
+clocktick: 2
+no students but windows are isAvailable idle time ++
+Student arrival time:5
+----clocktick----: 3 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------
+clocktick: 3
+no students but windows are isAvailable idle time ++
+Student arrival time:5
+----clocktick----: 4 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------
+clocktick: 4
+no students but windows are isAvailable idle time ++
+Student arrival time:5
+----clocktick----: 5 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 0
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 0
+----------
+---------
+clocktick: 5
+ASSIGNING STUDENT TO A WINDOW
+WINDOW Is Available: 0
+WINDOW idle time: 5
+----clocktick----: 6 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 1
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 1
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 1
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 1
+----------
+---------
+clocktick: 6
+ASSIGNING STUDENT TO A WINDOW
+WINDOW Is Available: 0
+WINDOW idle time: 5
+----clocktick----: 7 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 2
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 2
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 2
+----------
+---------
+clocktick: 7
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 8 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 3
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 3
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 3
+----------
+---------
+clocktick: 8
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 9 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 4
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 4
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 4
+----------
+---------
+clocktick: 9
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 10 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 5
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 5
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 5
+----------
+---------
+clocktick: 10
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 11 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 6
+----------
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 6
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 6
+----------
+---------
+clocktick: 11
+WINDOW Is Available: 1
+WINDOW idle time: 5
+ASSIGNING STUDENT TO A WINDOW
+WINDOW Is Available: 0
+WINDOW idle time: 5
+----clocktick----: 12 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 7
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 7
+----------
+---------
+clocktick: 12
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 13 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 8
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 8
+----------
+---------
+clocktick: 13
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 14 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 9
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 9
+----------
+---------
+clocktick: 14
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 15 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 10
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 10
+----------
+---------
+clocktick: 15
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 16 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 11
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 11
+----------
+---------
+clocktick: 16
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 17 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 12
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 12
+----------
+---------
+clocktick: 17
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 18 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 13
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 13
+----------
+---------
+clocktick: 18
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 19 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 14
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 14
+----------
+---------
+clocktick: 19
+WINDOW NOT AVAILBE STudents waiting
+----clocktick----: 20 Number of students remaining: 
+S arrivaltime: 5
+S windowtime: 10
+S waitTime: 15
+----------
+S arrivaltime: 5
+S windowtime: 5
+S waitTime: 15
+----------
+---------
+Median = 1
+0 1 6 7
+Avarge wait time: 2.33333
+getting out of simulator

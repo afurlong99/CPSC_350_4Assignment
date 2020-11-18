@@ -1,0 +1,104 @@
+pop.txt
+reading
+---------
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+---------1
+in main about to cal sim
+clocktick: 0
+We are in isAvailable fuction 
+Window s avialbe
+Is Available: 1
+idle time: 0
+Window Available: 1
+no students but windows are isAvailable idle time ++
+Student arrival time:2
+----clocktick----: 1 Number of students remaining: 
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+---------
+clocktick: 1
+We are in isAvailable fuction 
+Window s avialbe
+Is Available: 1
+idle time: 1
+Window Available: 1
+no students but windows are isAvailable idle time ++
+Student arrival time:2
+----clocktick----: 2 Number of students remaining: 
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+arrivaltime: 2
+windowtime: 1
+waitTime: 0
+---------
+clocktick: 2
+We are in isAvailable fuction 
+Window s avialbe
+Is Available: 1
+idle time: 2
+Window Available: 1
+ASSIGNING STUDENT TO A WINDOW
+Is Available: 0
+idle time: 2
+----clocktick----: 3 Number of students remaining: 
+arrivaltime: 2
+windowtime: 1
+waitTime: 1
+arrivaltime: 2
+windowtime: 1
+waitTime: 1
+---------
+clocktick: 3
+Is Available: 1
+idle time: 2
+We are in isAvailable fuction 
+Window s avialbe
+Is Available: 1
+idle time: 2
+Window Available: 1
+ASSIGNING STUDENT TO A WINDOW
+Is Available: 0
+idle time: 2
+----clocktick----: 4 Number of students remaining: 
+arrivaltime: 2
+windowtime: 1
+waitTime: 2
+---------
+clocktick: 4
+Is Available: 1
+idle time: 2
+We are in isAvailable fuction 
+Window s avialbe
+Is Available: 1
+idle time: 2
+Window Available: 1
+ASSIGNING STUDENT TO A WINDOW
+Is Available: 0
+idle time: 2
+----clocktick----: 5 Number of students remaining: 
+It is empty
+---------
+Each student wait time: 0
+Each student wait time: 1
+Each student wait time: 2
+Total wait time: 3
+getting out of simulator
